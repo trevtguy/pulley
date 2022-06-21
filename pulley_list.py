@@ -62,6 +62,7 @@ def copyDrawing(file, dst_path):
                 return(pdfname)
         except:
             pass
+        # DIFFERENCE
 
 
 
